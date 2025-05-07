@@ -1,0 +1,69 @@
+---
+title: "Jane Doe's Resume and Cover Letter"
+format: pdf
+---
+
+# Resume
+
+## Contact Information
+- **Name**: Jane Doe
+- **Email**: jane.doe@example.com
+- **Phone**: (123) 456-7890
+- **Location**: New York, NY
+- **LinkedIn**: [linkedin.com/in/jane-doe](https://linkedin.com/in/jane-doe)
+- **Portfolio**: [janedoe-portfolio.com](http://janedoe-portfolio.com)
+
+## Professional Summary
+Data-driven professional with 3+ years of experience in extracting, analyzing, and visualizing data to generate actionable insights. Proficient in SQL, Python, and data visualization tools to translate complex datasets into meaningful stories. Proven ability to identify trends, patterns, and opportunities for optimization, ultimately supporting informed decision-making.
+
+## Skills
+- **Technical Skills**: 
+- **Soft Skills**: 
+
+## Work Experience
+
+### {{experience_1_title}} at {{experience_1_company}}
+- **Location**: {{experience_1_location}}
+- **Dates**: {{experience_1_date}}
+- **Responsibilities**:
+    - {{experience_1_responsibility_1}}
+    - {{experience_1_responsibility_2}}
+    - {{experience_1_responsibility_3}}
+
+### {{experience_2_title}} at {{experience_2_company}}
+- **Location**: {{experience_2_location}}
+- **Dates**: {{experience_2_date}}
+- **Responsibilities**:
+    - {{experience_2_responsibility_1}}
+    - {{experience_2_responsibility_2}}
+
+## Education
+- **Degree**: Bachelor of Science in Computer Science
+- **University**: University of Example, New York, NY
+- **Graduation Date**: May 2018
+- **Relevant Courses**: {{education_courses}}
+
+## Certifications
+- Google Data Analytics Professional Certificate
+- Microsoft Certified: Azure Data Scientist Associate
+
+## Projects
+- **Customer Segmentation Analysis**: Created customer segments using clustering algorithms for targeted marketing campaigns.
+- **Sales Forecasting Model**: Developed a forecasting model to predict sales trends, reducing inventory costs by 10%.
+
+## Languages
+- English (Fluent), Spanish (Conversational)
+
+## Interests
+- Data Ethics, AI for Social Good, Tech Blogging
+
+---
+
+# Cover Letter
+
+Dear Hiring Manager,
+
+{{cover_letter_content}}
+
+Sincerely,  
+Jane Doe
